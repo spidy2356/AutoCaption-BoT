@@ -13,15 +13,15 @@
     "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "app_id": {
-            "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "27627117",
             "value": ""
         },
         "api_hash": {
-            "description": "Your API Hash From my.telegram.org or @MT_MyTelegramOrg_Bot",
+            "description": "385615c608ac4c92063b78e882c9cc7f",
             "value": ""
         },
         "bot_token": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "7315834891:AAGBKObka2AzPeAgqYu3VtwOFuRTb2Vx-x4",
             "value": ""        
         },
         "custom_caption": {
