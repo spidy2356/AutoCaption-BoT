@@ -1,7 +1,7 @@
 {
     "name": "AutoCaption-Bot",
     "description": "Auto Caption BoT V1 @Pr0fess0r-99",
-    "logo": "https://graph.org/file/a3a93ffb7283578499cce.jpg",
+    "logo": "",
     "keywords": [
         "Private",
         "Auto",
@@ -13,16 +13,16 @@
     "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "app_id": {
-            "description": "27627117",
-            "value": ""
+            "description": "",
+            "value": "27627117"
         },
         "api_hash": {
-            "description": "385615c608ac4c92063b78e882c9cc7f",
-            "value": ""
+            "description": "",
+            "value": "385615c608ac4c92063b78e882c9cc7f"
         },
         "bot_token": {
-            "description": "7315834891:AAGBKObka2AzPeAgqYu3VtwOFuRTb2Vx-x4",
-            "value": ""        
+            "description": "",
+            "value": "7315834891:AAGBKObka2AzPeAgqYu3VtwOFuRTb2Vx-x4"        
         },
         "custom_caption": {
             "description": "Caption Text.  use {file_name} to get original file name",
